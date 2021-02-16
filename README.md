@@ -1,6 +1,6 @@
 # PSG financial_statements since 2006
 
-***
+
 ___
 
 <p align="center">
