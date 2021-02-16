@@ -1,4 +1,4 @@
-# PSG financial_statements since 2006
+# PSG financial statements since 2006
 
 
 ___
@@ -13,7 +13,7 @@ A financial statement is a document records that convey the business activies an
 
 <br> 
 The Paris Saint Germain club was created in 1970. the club has known many owners since its creation. During their first years, PSG was fan owned until 1973. Then from 1973 to 1991, the club was acquired by a group of french wealthly businessmen who were led by two of the most importants presidents in the history of the club called Daniel Hechter and Francis Borelli. Then Canal + owned PSG which led them to a very good period in their history until 2006. From 2006 to 2011, an american corporation invested in PSG afterwards. Since 2011, PSG is owned by Qatar Sports Investments.
-<br> 
+<br> <br>
 
 | Period  | Owner |
 | ------------- | ------------- |
