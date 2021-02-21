@@ -43,5 +43,6 @@ On the repositery, we can find  3 datasets :
 * The scrapping notebooks
 * The datasets
 * The Jupyter Notebook of the analysis
+* A LaTeX report of the study and the lexicon
  
 
