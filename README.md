@@ -29,18 +29,19 @@ Being fans of Paris Saint Germain since our childhood, we wanted to analyze the 
 
 
 ## The dataset 
-This dataset was taken on the French governement website in open source. It is published every year and retrace the property sales history on the French territory (DOM TOM included) for the last 4 years and comes from notarial deeds. We made the study on the 2019 edition.  
-On this datset we can find : 
-* Information about the property (adress, type of property, measured area, number of rooms and other details)
-* Type of property transfer
-* Worth of the property
+This dataset was scrapped using Selenium library on a website where we can find all of PSG's financial statements. Nevertheless, some lines of the financial statements were not ope source that's why values don't exactly match the results. Financial statements are published every year since 2006 and retrace the balance sheet at the end of each season. We made the study on the data since 2006.  
+On the repositery, we can find  3 datasets : 
+* The first one concerns the assets (current assets, total property, net fixed assets, ect ...)
+* The second one concerns liabilities or stock holder's equity (expenses, debts, accounts payable, taxes, ect ...)
+* The third one represents the results at the end of the year (sales revenue, production, value added, wage bill, staff, ect ...)
  <br><br>
  
-
 
 <br>
  
 ## You will find in this repositery :   
-* The [Jupyter Notebook]()
+* The scrapping notebooks
+* The datasets
+* The Jupyter Notebook of the analysis
  
 
