@@ -7,6 +7,12 @@ ___
   <img src="https://www.plspronos.fr/wp-content/uploads/2020/08/logo-psg.png" />
 </p>
 
+## You will find in this repositery : 
+* [An article : "PSG : Analysis of the fastest growing team value of the decade"](https://github.com/thomastrg/PSG_financial_statements/blob/main/PSG_financial_statements.pdf)
+* [The scrapping notebooks](https://github.com/thomastrg/PSG_financial_statements/tree/main/scrapping)
+* [The datasets](https://github.com/thomastrg/PSG_financial_statements/tree/main/scrapping/datasets)
+* [The notebook for curve fitting](https://github.com/thomastrg/PSG_financial_statements/blob/main/script/bilan_compte_resultat_psg.csv)
+
 ## Introduction 
 
 A financial statement is a document records that convey the business activies andd the financial performance of a company. The balance sheet provides an overview of assets (bilan actif) and liabilities (bilan passif). 
@@ -21,7 +27,7 @@ The Paris Saint Germain club was created in 1970. the club has known many owners
 | 1973 - 1991  | Francis Borelli & Daniel Hechter  |
 | 1991 - 2006 | Canal + Era |
 | 2006 - 2011 | Colony Capital Corp  |
-| 2011 - | Nasser Al-Khelaïfi (Qatar Investment Authority)   |
+| 2011 - Now | Nasser Al-Khelaïfi (Qatar Investment Authority)   |
 
 <br><br>
 
@@ -39,10 +45,6 @@ On the repositery, we can find  3 datasets :
 
 <br>
  
-## You will find in this repositery : 
-* [An article : "PSG : Analysis of the fastest growing team value of the decade"](https://github.com/thomastrg/PSG_financial_statements/blob/main/PSG_financial_statements.pdf)
-* [The scrapping notebooks](https://github.com/thomastrg/PSG_financial_statements/tree/main/scrapping)
-* [The datasets](https://github.com/thomastrg/PSG_financial_statements/tree/main/scrapping/datasets)
-* [The notebook for curve fitting](https://github.com/thomastrg/PSG_financial_statements/blob/main/script/bilan_compte_resultat_psg.csv)
+
  
 
