@@ -39,10 +39,10 @@ On the repositery, we can find  3 datasets :
 
 <br>
  
-## You will find in this repositery :   
-* The scrapping notebooks
-* The datasets
-* The Jupyter Notebook of the analysis
-* A LaTeX report of the study and the lexicon
+## You will find in this repositery : 
+* [An article : "PSG : Analysis of the fastest growing team value of the decade"](https://github.com/thomastrg/PSG_financial_statements/blob/main/PSG_financial_statements.pdf)
+* [The scrapping notebooks](https://github.com/thomastrg/PSG_financial_statements/tree/main/scrapping)
+* [The datasets](https://github.com/thomastrg/PSG_financial_statements/tree/main/scrapping/datasets)
+* [The notebook for curve fitting](https://github.com/thomastrg/PSG_financial_statements/blob/main/script/bilan_compte_resultat_psg.csv)
  
 
