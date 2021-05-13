@@ -7,6 +7,9 @@ ___
   <img src="https://www.plspronos.fr/wp-content/uploads/2020/08/logo-psg.png" />
 </p>
 
+## Collaboration 
+Hello, my friend [Ikhlass](https://github.com/ikhlo) and I are proud to introduce you the study with made about **PSG financial statements since 2006**
+
 ## You will find in this repositery : 
 * [An article : "PSG : Analysis of the fastest growing team value of the decade"](https://github.com/thomastrg/PSG_financial_statements/blob/main/PSG_financial_statements.pdf)
 * [The scrapping notebooks](https://github.com/thomastrg/PSG_financial_statements/tree/main/scrapping)
