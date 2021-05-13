@@ -44,7 +44,6 @@ On the repositery, we can find  3 datasets :
 * The second one concerns liabilities or stock holder's equity (expenses, debts, accounts payable, taxes, ect ...)
 * The third one represents the results at the end of the year (sales revenue, production, value added, wage bill, staff, ect ...)
  <br><br>
- 
 
 <br>
  
