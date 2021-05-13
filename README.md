@@ -8,7 +8,7 @@ ___
 </p>
 
 ## Collaboration 
-Hello, my friend [Ikhlass](https://github.com/ikhlo) and I are proud to introduce you the study with made about **PSG financial statements since 2006**
+Hello, my friend [Ikhlass](https://github.com/ikhlo) and I are proud to introduce you the study we made about **PSG financial statements since 2006**
 
 ## You will find in this repositery : 
 * [An article : "PSG : Analysis of the fastest growing team value of the decade"](https://github.com/thomastrg/PSG_financial_statements/blob/main/PSG_financial_statements.pdf)
